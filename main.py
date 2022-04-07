@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 s1= input("gıve some")
 print(s1)
 
